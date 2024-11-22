@@ -1,0 +1,7 @@
+Degree 3: MSE = 0.186945
+Degree 4: MSE = 0.180993
+Degree 5: MSE = 0.175786
+Degree 6: MSE = 0.121269
+Degree 7: MSE = 0.106327
+Degree 8: MSE = 0.083317
+Degree 9: MSE = 0.001022
